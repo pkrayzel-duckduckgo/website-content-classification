@@ -1,0 +1,2 @@
+eval_loss,eval_accuracy,eval_precision,eval_recall,eval_f1,eval_runtime,eval_samples_per_second,eval_steps_per_second,epoch
+0.12934496998786926,0.9755671902268761,0.9770992366412213,0.9696969696969697,0.973384030418251,12.2922,46.615,2.929,5.0

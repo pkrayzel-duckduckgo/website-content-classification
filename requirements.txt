@@ -1,0 +1,14 @@
+trafilatura
+transformers
+pandas
+lxml_html_clean
+torch
+torchvision
+torchaudio
+selenium
+webdriver-manager
+datasets
+scikit-learn
+transformers[torch]
+sentence-transformers
+bs4

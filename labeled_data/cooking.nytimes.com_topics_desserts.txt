@@ -1,0 +1,767 @@
+title,url,sentence,label
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Manage privacy preferences
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,We and our vendors use cookies and similar methods to recognize visitors and remember their preferences, for analytics, to measure our marketing effectiveness and to target and measure the effectiveness of ads, among other things. To learn more about these methods, view our Cookie Policy and Privacy Policy. By clicking ‘Accept all,’ you consent to the processing of your data by us and our vendors using the above methods. You can always change your preferences by clicking on Manage Privacy Preferences in our website footer or in your app Privacy Settings. Your preferences here are unrelated to Apple’s App Tracking Transparency Framework.
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Vendors using consent 308
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Vendors using legitimate interest 76
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Precise geolocation data, and identification through device scanning
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Precise geolocation and information about device characteristics can be used.
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Personalised advertising, advertising measurement, audience research and services development
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Advertising can be personalised based on your profile. Your activity on this service can be used to build or improve a profile about you for personalised advertising. Advertising performance can be measured. Reports can be generated based on your activity and those of others. Your activity on this service can help develop and improve products and services.
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,PurposesUse limited data to select advertisingCreate profiles for personalised advertisingUse profiles to select personalised advertisingMeasure advertising performanceUnderstand audiences through statistics or combinations of data from different sourcesDevelop and improve services
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Store and/or access information on a device
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Cookies, device or similar online identifiers (e.g. login-based identifiers, randomly assigned identifiers, network based identifiers) together with other information (e.g. browser type and information, language, screen size, supported technologies etc.) can be stored or read on your device to recognise it each time it connects to an app or to a website, for one or several of the purposes presented here.
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Reject allAccept all
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Manage Privacy Preferences
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,We and our vendors use cookies and similar methods (“Cookies”) to recognize visitors and remember their preferences. We also use them for a variety of purposes, including analytics, to measure marketing effectiveness and to target and measure the effectiveness of ads. You can accept or reject the use of Cookies for individual purposes below. If you previously accepted these methods through our prior banner, then we will use your data for targeting. Your preferences here are unrelated to Apple’s App Tracking Transparency Framework.
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,PurposesFeaturesVendors
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Below, you will find a list of the purposes and special features for which your data is being processed. You may exercise your rights for specific purposes, based on consent or legitimate interest, using the toggles below.
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,ConsentLegitimate interest
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Store and/or access information on a device
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Cookies, device or similar online identifiers (e.g. login-based identifiers, randomly assigned identifiers, network based identifiers) together with other information (e.g. browser type and information, language, screen size, supported technologies etc.) can be stored or read on your device to recognise it each time it connects to an app or to a website, for one or several of the purposes presented here.
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Most purposes explained in this notice rely on the storage or accessing of information from your device when you use an app or visit a website. For example, a vendor or publisher might need to store a cookie on your device during your first visit on a website, to be able to recognise your device during your next visits (by accessing this cookie each time).
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Vendors170 vendor(s)6senseA.MobADventoriAarkiAcuityAdsAdElement Media SolutionsAdGearAdKernelAdSpirit AdServerAdTheorent
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Use limited data to select advertising
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Advertising presented to you on this service can be based on limited data, such as the website or app you are using, your non-precise location, your device type or which content you are (or have been) interacting with (for example, to limit the number of times an ad is presented to you).
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,A car manufacturer wants to promote its electric vehicles to environmentally conscious users living in the city after office hours. The advertising is presented on a page with related content (such as an article on climate change actions) after 6:30 p.m. to users whose non-precise location suggests that they are in an urban zone.
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,A large producer of watercolour paints wants to carry out an online advertising campaign for its latest watercolour range, diversifying its audience to reach as many amateur and professional artists as possible and avoiding showing the ad next to mismatched content (for instance, articles about how to paint your house). The number of times that the ad has been presented to you is detected and limited, to avoid presenting it too often.
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Vendors41 vendor(s)6senseAcuityAdsAdGearAdKernelAdformAdvanced storeAmazon Ad ServerAppierAudienceProjectBannernow
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Create profiles for personalised advertising
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Information about your activity on this service (such as forms you submit, content you look at) can be stored and combined with other information about you (for example, information from your previous activity on this service and other websites or apps) or similar users. This is then used to build or improve a profile about you (that might include possible interests and personal aspects). Your profile can be used (also later) to present advertising that appears more relevant based on your possible interests by this and other entities.
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,If you read several articles about the best bike accessories to buy, this information could be used to create a profile about your interest in bike accessories. Such a profile may be used or improved later on, on the same or a different website or app to present you with advertising for a particular bike accessory brand. If you also look at a configurator for a vehicle on a luxury car manufacturer website, this information could be combined with your interest in bikes to refine your profile and make an assumption that you are interested in luxury cycling gear.
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,An apparel company wishes to promote its new line of high-end baby clothes. It gets in touch with an agency that has a network of clients with high income customers (such as high-end supermarkets) and asks the agency to create profiles of young parents or couples who can be assumed to be wealthy and to have a new child, so that these can later be used to present advertising within partner apps based on those profiles.
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Vendors128 vendor(s)6senseA.MobAarkiAcuityAdsAdElement Media SolutionsAdGearAdKernelAdSpirit AdServerAdTheorentAdTiming
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Use profiles to select personalised advertising
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Advertising presented to you on this service can be based on your advertising profiles, which can reflect your activity on this service or other websites or apps (like the forms you submit, content you look at), possible interests and personal aspects.
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,An online retailer wants to advertise a limited sale on running shoes. It wants to target advertising to users who previously looked at running shoes on its mobile app. Tracking technologies might be used to recognise that you have previously used the mobile app to consult running shoes, in order to present you with the corresponding advertisement on the app.
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,A profile created for personalised advertising in relation to a person having searched for bike accessories on a website can be used to present the relevant advertisement for bike accessories on a mobile app of another organisation.
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Vendors124 vendor(s)6senseA.MobADventoriAarkiAcuityAdsAdElement Media SolutionsAdGearAdKernelAdSpirit AdServerAdTheorent
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Measure advertising performance
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Information regarding which advertising is presented to you and how you interact with it can be used to determine how well an advert has worked for you or other users and whether the goals of the advertising were reached. For instance, whether you saw an ad, whether you clicked on it, whether it led you to buy a product or visit a website, etc. This is very helpful to understand the relevance of advertising campaigns.
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,You have clicked on an advertisement about a “black Friday” discount by an online shop on the website of a publisher and purchased a product. Your click will be linked to this purchase. Your interaction and that of other users will be measured to know how many clicks on the ad led to a purchase.
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,You are one of very few to have clicked on an advertisement about an “international appreciation day” discount by an online gift shop within the app of a publisher. The publisher wants to have reports to understand how often a specific ad placement within the app, and notably the “international appreciation day” ad, has been viewed or clicked by you and other users, in order to help the publisher and its partners (such as agencies) optimise ad placements.
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Vendors72 vendor(s)6senseAarkiAcuityAdsAdGearAdKernelAdelaideAdformAdikteevAdlooxAdnami
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Understand audiences through statistics or combinations of data from different sources
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Reports can be generated based on the combination of data sets (like user profiles, statistics, market research, analytics data) regarding your interactions and those of other users with advertising or (non-advertising) content to identify common characteristics (for instance, to determine which target audiences are more receptive to an ad campaign or to certain contents).
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,The owner of an online bookstore wants commercial reporting showing the proportion of visitors who consulted and left its site without buying, or consulted and bought the last celebrity autobiography of the month, as well as the average age and the male/female distribution of each category. Data relating to your navigation on its site and to your personal characteristics is then used and combined with other such data to produce these statistics.
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,An advertiser wants to better understand the type of audience interacting with its adverts. It calls upon a research institute to compare the characteristics of users who interacted with the ad with typical attributes of users of similar platforms, across different devices. This comparison reveals to the advertiser that its ad audience is mainly accessing the adverts through mobile devices and is likely in the 45-60 age range.
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Vendors27 vendor(s)AdGearAmazon Ad ServerAmobee (Nexxen)AppierAudienceProjectBomboraClinchCrimtanEmerseGoogle Ads
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Develop and improve services
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Information about your activity on this service, such as your interaction with ads or content, can be very helpful to improve products and services and to build new products and services based on user interactions, the type of audience, etc. This specific purpose does not include the development or improvement of user profiles and identifiers.
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,A technology platform working with a social media provider notices a growth in mobile app users, and sees based on their profiles that many of them are connecting through mobile connections. It uses a new technology to deliver ads that are formatted for mobile devices and that are low-bandwidth, to improve their performance.
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,An advertiser is looking for a way to display ads on a new type of consumer device. It collects information regarding the way users interact with this new kind of device to determine whether it can build a new mechanism for displaying advertising on this type of device.
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Vendors48 vendor(s)6senseAarkiAcuityAdsAdGearAdelaideAdformAdmixerAmazon Ad ServerAmobee (Nexxen)Appier
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Below, you will find a list of the features for which your data is being processed. You may exercise your rights for special features using the toggles below.
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Match and combine data from other data sources
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Information about your activity on this service may be matched and combined with other information relating to you and originating from various sources (for instance your activity on a separate online service, your use of a loyalty card in-store, or your answers to a survey), in support of the purposes explained in this notice.
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Vendors106 vendor(s)6senseA.MobABCS INSIGHTSAdGearAdTheorentAdara (Rate Gain)AdelaideAdex (Virtual Minds)AdformAdmixer
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Link different devices
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,In support of the purposes explained in this notice, your device might be considered as likely linked to other devices that belong to you or your household (for instance because you are logged in to the same service on both your phone and your computer, or because you may use the same Internet connection on both devices).
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Vendors106 vendor(s)6senseA.MobAcuityAdsAdElement Media SolutionsAdGearAdTheorentAdara (Rate Gain)Adex (Virtual Minds)AdformAdikteev
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Identify devices based on information transmitted automatically
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Your device might be distinguished from other devices based on information it automatically sends when accessing the Internet (for instance, the IP address of your Internet connection or the type of browser you are using) in support of the purposes exposed in this notice.
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Vendors122 vendor(s)6senseA.MobAarkiAdElement Media SolutionsAdGearAdKernelAdSpirit AdServerAdTheorentAdara (Rate Gain)Adex (Virtual Minds)
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Use precise geolocation data
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,With your acceptance, your precise location (within a radius of less than 500 metres) may be used in support of the purposes explained in this notice.
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Vendors62 vendor(s)A.MobAdElement Media SolutionsAdGearAdKernelAdTheorentAdmixerAdrule mobileAdsWizzAirtory IncAppier
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Actively scan device characteristics for identification
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,With your acceptance, certain characteristics specific to your device might be requested and used to distinguish it from other devices (such as the installed fonts or plugins, the resolution of your screen) in support of the purposes explained in this notice.
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Vendors24 vendor(s)A.MobAdKernelAdTheorentAdcell (Firstlead)CheqClickagyDentsu Product &amp;amp; Services GmbHFraudlogixHumanHybrid
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Below, you will find a list of vendors processing your data and the purposes or features of processing they declare. You may exercise your rights for each vendor based on the legal basis they assert.
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,ConsentLegitimate interest
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,6sense stores cookies with a maximum duration of about this many days: 730. This vendor also uses other methods like "local storage" to store and access information on your device.
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Privacy policyLegitimate interest disclosurePurposesRetentionStore and/or access information on a device400 day(s)Create profiles for personalised advertising400 day(s)Use profiles to select personalised advertising400 day(s)Use limited data to select advertising400 day(s)Measure advertising performance400 day(s)Develop and improve services400 day(s)Special purposesRetentionEnsure security, prevent and detect fraud, and fix errors,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,400 day(s)Deliver and present advertising and content400 day(s)FeaturesMatch and combine data from other data sourcesLink different devicesIdentify devices based on information transmitted automaticallyData categoriesIP addressesProbabilistic identifiersBrowsing and interaction dataNon-precise location dataUsers’ profiles
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,A.Mob stores cookies with a maximum duration of about this many days: 395. This vendor also uses other methods like "local storage" to store and access information on your device.
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Privacy policyPurposesRetentionStore and/or access information on a device395 day(s)Use limited data to select advertising395 day(s)Create profiles for personalised advertising395 day(s)Use profiles to select personalised advertising395 day(s)Measure advertising performance395 day(s)Understand audiences through statistics or combinations of data from different sources395 day(s)Develop and improve services395 day(s)FeaturesMatch and combine data from other data sourcesLink different devicesIdentify devices based on information transmitted automaticallySpecial featuresUse precise geolocation dataActively scan device characteristics for identificationData categoriesIP addressesDevice characteristicsDevice identifiersProbabilistic identifiersAuthentication-derived identifiersBrowsing and interaction dataUser-provided dataNon-precise location dataPrecise location dataUsers’ profilesPrivacy choices
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,ABCS INSIGHTSIAB TCF
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Privacy policyPurposesRetentionMeasure advertising performance60 day(s)Understand audiences through statistics or combinations of data from different sources60 day(s)FeaturesMatch and combine data from other data sourcesData categoriesIP addresses
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,ADventori stores cookies with a maximum duration of about this many days: 90. These cookies may be refreshed. This vendor also uses other methods like "local storage" to store and access information on your device.
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Privacy policyLegitimate interest disclosurePurposesRetentionStore and/or access information on a device-Use limited data to select advertising90 day(s)Use profiles to select personalised advertising90 day(s)Measure advertising performance400 day(s)Special purposesRetentionEnsure security, prevent and detect fraud, and fix errors
+400 day(s)Deliver and present advertising and content400 day(s)Save and communicate privacy choices90 day(s)Data categoriesIP addressesDevice identifiersProbabilistic identifiersBrowsing and interaction dataUser-provided dataNon-precise location dataPrivacy choices
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,uses methods like "local storage" to store and access information on your device.
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Privacy policyLegitimate interest disclosurePurposesRetentionStore and/or access information on a device365 day(s)Use limited data to select advertising365 day(s)Create profiles for personalised advertising3650 day(s)Use profiles to select personalised advertising3650 day(s)Measure advertising performance1500 day(s)Develop and improve services365 day(s)Special purposesRetentionEnsure security, prevent and detect fraud, and fix errors,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,365 day(s)Deliver and present advertising and content365 day(s)FeaturesIdentify devices based on information transmitted automaticallyData categoriesIP addressesDevice characteristicsDevice identifiersUser-provided dataNon-precise location data
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,AcuityAds stores cookies with a maximum duration of about this many days: 365. These cookies may be refreshed.
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Privacy policyLegitimate interest disclosurePurposesRetentionStore and/or access information on a device180 day(s)Create profiles for personalised advertising180 day(s)Use profiles to select personalised advertising180 day(s)Use limited data to select advertising180 day(s)Measure advertising performance180 day(s)Develop and improve services180 day(s)Special purposesRetentionEnsure security, prevent and detect fraud, and fix errors,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,180 day(s)Deliver and present advertising and content180 day(s)Save and communicate privacy choices180 day(s)FeaturesLink different devicesData categoriesIP addressesDevice characteristicsDevice identifiersAuthentication-derived identifiersBrowsing and interaction dataNon-precise location dataUsers’ profilesPrivacy choices
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,AdElement Media SolutionsIAB TCF
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,AdElement Media Solutions stores cookies with a maximum duration of about this many days: 365. These cookies may be refreshed.
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Privacy policyLegitimate interest disclosurePurposesRetentionStore and/or access information on a device180 day(s)Use limited data to select advertising180 day(s)Create profiles for personalised advertising90 day(s)Use profiles to select personalised advertising90 day(s)Measure advertising performance180 day(s)Understand audiences through statistics or combinations of data from different sources90 day(s)Develop and improve services180 day(s)Special purposesRetentionEnsure security, prevent and detect fraud, and fix errors,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,180 day(s)Deliver and present advertising and content180 day(s)Save and communicate privacy choices180 day(s)FeaturesLink different devicesIdentify devices based on information transmitted automaticallySpecial featuresUse precise geolocation dataData categoriesIP addressesDevice characteristicsDevice identifiersBrowsing and interaction dataUser-provided dataNon-precise location dataPrecise location dataUsers’ profilesPrivacy choices
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,AdGear stores cookies with a maximum duration of about this many days: 395. This vendor also uses other methods like "local storage" to store and access information on your device.
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Privacy policyLegitimate interest disclosurePurposesRetentionStore and/or access information on a device395 day(s)Create profiles for personalised advertising395 day(s)Use profiles to select personalised advertising395 day(s)Use limited data to select advertising395 day(s)Measure advertising performance395 day(s)Understand audiences through statistics or combinations of data from different sources395 day(s)Develop and improve services395 day(s)Special purposesRetentionEnsure security, prevent and detect fraud, and fix errors,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,395 day(s)Deliver and present advertising and content395 day(s)Save and communicate privacy choices730 day(s)FeaturesMatch and combine data from other data sourcesLink different devicesIdentify devices based on information transmitted automaticallySpecial featuresUse precise geolocation dataData categoriesIP addressesDevice characteristicsDevice identifiersProbabilistic identifiersAuthentication-derived identifiersBrowsing and interaction dataUser-provided dataNon-precise location dataPrecise location dataUsers’ profilesPrivacy choices
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,AdKernel stores cookies with a maximum duration of about this many days: 18. These cookies may be refreshed.
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Privacy policyLegitimate interest disclosurePurposesRetentionStore and/or access information on a device180 day(s)Create profiles for personalised advertising180 day(s)Use profiles to select personalised advertising180 day(s)Understand audiences through statistics or combinations of data from different sources180 day(s)Develop and improve services180 day(s)Use limited data to select advertising180 day(s)Measure advertising performance180 day(s)Special purposesRetentionEnsure security, prevent and detect fraud, and fix errors,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,180 day(s)Deliver and present advertising and content180 day(s)Save and communicate privacy choices180 day(s)FeaturesIdentify devices based on information transmitted automaticallySpecial featuresUse precise geolocation dataActively scan device characteristics for identificationData categoriesIP addressesDevice identifiersNon-precise location dataPrecise location dataUsers’ profiles
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,AdSpirit AdServerIAB TCF
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,AdSpirit AdServer stores cookies with a maximum duration of about this many days: 30. These cookies may be refreshed.
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Privacy policyLegitimate interest disclosurePurposesRetentionStore and/or access information on a device60 day(s)Use limited data to select advertising14 day(s)Create profiles for personalised advertising60 day(s)Use profiles to select personalised advertising60 day(s)Measure advertising performance14 day(s)Understand audiences through statistics or combinations of data from different sources60 day(s)Special purposesRetentionEnsure security, prevent and detect fraud, and fix errors,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,60 day(s)Deliver and present advertising and content60 day(s)FeaturesIdentify devices based on information transmitted automaticallyData categoriesIP addressesDevice characteristicsDevice identifiersProbabilistic identifiersBrowsing and interaction dataNon-precise location dataUsers’ profilesPrivacy choices
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,SaveReject allAccept all
+,0
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,What to CookRecipesIngredientsOccasionsAbout
+,1
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Staff PicksEasy Salmon RecipesSoups and StewsEasy Side DishesHealthy Weeknight DinnersSheet-Pan Vegetarian Recipes
+,1
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,From Our NewslettersThe Cooking NewsletterFive Weeknight DishesThe Veggie
+,1
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Perfect ForOne-Pot DinnersWeeknight ChickenQuick Pastas30 Minute VegetarianEasy Baking
+,1
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Everyday RecipesEasyHealthyWeeknightPastaQuick
+,1
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,By MealDinnerBreakfastLunchDessertsAppetizersSide DishesDrinks
+,1
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,By DietVegetarianVeganGluten-FreeDairy-Free
+,1
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,By MethodAir FryerInstant PotSlow CookerBBQ &amp; GrillingSheet PanBaking
+,1
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Meat &amp; SeafoodChickenBeefPorkSalmonShrimp
+,1
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Vegetables &amp; FruitsZucchiniSweet PotatoEggplantCabbageAsparagusTomato
+,1
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Plant-Based ProteinsTofuLentilChickpeaBean
+,1
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Rice, Grains, PastaPastaNoodlesRiceQuinoaBreadCouscous
+,1
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,By Upcoming HolidayValentine’s DayMardi GrasRamadanSt. Patrick’s Day
+,1
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,By OccasionBirthdaysBrunchDate NightPartiesPicnicsAbout UsThe New York Times Food Section
+,1
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Staff PicksEasy Salmon RecipesSoups and StewsEasy Side DishesHealthy Weeknight DinnersSheet-Pan Vegetarian Recipes
+,1
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,From Our NewslettersThe Cooking NewsletterFive Weeknight DishesThe Veggie
+,1
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Perfect ForOne-Pot DinnersWeeknight ChickenQuick Pastas30 Minute VegetarianEasy Baking
+,1
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Everyday RecipesEasyHealthyWeeknightPastaQuick
+,1
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,By MealDinnerBreakfastLunchDessertsAppetizersSide DishesDrinks
+,1
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,By DietVegetarianVeganGluten-FreeDairy-Free
+,1
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,By MethodAir FryerInstant PotSlow CookerBBQ &amp; GrillingSheet PanBaking
+,1
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Meat &amp; SeafoodChickenBeefPorkSalmonShrimp
+,1
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Vegetables &amp; FruitsZucchiniSweet PotatoEggplantCabbageAsparagusTomato
+,1
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Plant-Based ProteinsTofuLentilChickpeaBean
+,1
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Rice, Grains, PastaPastaNoodlesRiceQuinoaBreadCouscous
+,1
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,By Upcoming HolidayValentine’s DayMardi GrasRamadanSt. Patrick’s Day
+,1
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,By OccasionBirthdaysBrunchDate NightPartiesPicnics
+
+About UsThe New York Times Food Section
+
+Our best dessert recipes including ice cream, cookies, cakes, pies and more.
+,1
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Featured Recipe Collections
+,1
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Skillet Chocolate Chip Cookie
+
+Samantha Seneviratne
+
+1873 ratings with an average rating of 5 out of 5 stars
+
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Log in or sign up to save this recipe.easy
+,1
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Matcha-Black Sesame Shortbreads
+
+348 ratings with an average rating of 5 out of 5 stars
+
+1 ½ hours, plus at least 4 ½ hours’ chilling
+
+Log in or sign up to save this recipe.
+,1
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Mexican Hot Chocolate Cookies
+
+2995 ratings with an average rating of 5 out of 5 stars
+
+1 1/2 hours, plus 2 hours chilling
+
+Log in or sign up to save this recipe.
+,1
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Technicolor Cookies&nbsp;&nbsp;
+
+Samantha Seneviratne
+
+872 ratings with an average rating of 5 out of 5 stars
+
+1 hour 30 minutes, plus 7 hours chilling and setting
+
+Log in or sign up to save this recipe.
+,1
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Dirty Chai Earthquake Cookies
+
+1965 ratings with an average rating of 4 out of 5 stars
+
+45 minutes, plus chilling
+
+Log in or sign up to save this recipe.
+,1
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Piloncillo Chocolate Chip Cookies
+
+823 ratings with an average rating of 4 out of 5 stars
+
+Log in or sign up to save this recipe.
+,1
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Bûche de Noël Cookies
+
+444 ratings with an average rating of 4 out of 5 stars
+
+Log in or sign up to save this recipe.
+,1
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Red Velvet Cookie Bars
+
+24 ratings with an average rating of 4 out of 5 stars
+
+Log in or sign up to save this recipe.
+,1
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Iced Peppermint Cookies
+
+370 ratings with an average rating of 5 out of 5 stars
+
+Log in or sign up to save this recipe.
+,1
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Rum-Buttered Almond Cookies
+
+1030 ratings with an average rating of 5 out of 5 stars
+
+40 minutes, plus cooling
+
+Log in or sign up to save this recipe.
+,1
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Neapolitan Checkerboard Cookies
+
+679 ratings with an average rating of 5 out of 5 stars
+
+1 hour 40 minutes, plus overnight chilling
+
+Log in or sign up to save this recipe.
+
+409 ratings with an average rating of 5 out of 5 stars
+
+Log in or sign up to save this recipe.easy
+,1
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Lemon-Turmeric Crinkle Cookies
+
+1719 ratings with an average rating of 5 out of 5 stars
+
+Log in or sign up to save this recipe.easy
+,1
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Samantha Seneviratne
+
+4174 ratings with an average rating of 5 out of 5 stars
+
+Log in or sign up to save this recipe.
+,1
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Rose and Almond Ghriba
+
+1058 ratings with an average rating of 4 out of 5 stars
+
+Log in or sign up to save this recipe.
+,1
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Red Velvet Crinkle Cookies
+
+Erin Jeanne McDowell
+
+603 ratings with an average rating of 4 out of 5 stars
+
+Log in or sign up to save this recipe.
+
+158 ratings with an average rating of 4 out of 5 stars
+
+Log in or sign up to save this recipe.
+
+844 ratings with an average rating of 4 out of 5 stars
+
+Log in or sign up to save this recipe.
+,1
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Soft and Chewy Sugar Cookies&nbsp;
+
+Samantha Seneviratne
+
+639 ratings with an average rating of 5 out of 5 stars
+
+Log in or sign up to save this recipe.easy
+,1
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Adobo Chocolate Chip Cookies
+
+Genevieve Ko, Abi Balingit
+
+444 ratings with an average rating of 4 out of 5 stars
+
+Log in or sign up to save this recipe.
+,1
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Our Best Chocolate Dessert Recipes
+
+Vegan Chocolate Cupcakes
+
+Pete Wells, Isa Chandra Moskowitz, Terry Hope Romero
+
+1512 ratings with an average rating of 5 out of 5 stars
+
+Log in or sign up to save this recipe.easy
+,1
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Chocolate Layer Cake
+
+743 ratings with an average rating of 5 out of 5 stars
+
+Log in or sign up to save this recipe.
+
+709 ratings with an average rating of 5 out of 5 stars
+
+Log in or sign up to save this recipe.easy
+
+133 ratings with an average rating of 5 out of 5 stars
+
+About 3 ¼ hours, plus at least 24 hours chilling
+
+Log in or sign up to save this recipe.
+,1
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Death by Chocolate&nbsp;
+
+322 ratings with an average rating of 4 out of 5 stars
+
+3 hours (includes at least 2 hours’ cooling and chilling)
+
+Log in or sign up to save this recipe.
+,1
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Easy Chocolate Fudge
+
+Julia Moskin, Michael Chu
+
+1097 ratings with an average rating of 4 out of 5 stars
+
+Log in or sign up to save this recipe.
+
+954 ratings with an average rating of 4 out of 5 stars
+
+20 minutes, plus overnight chilling
+
+Log in or sign up to save this recipe.
+,1
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Chocolate Zucchini Loaf Cake
+
+3108 ratings with an average rating of 5 out of 5 stars
+
+1 1/2 hours, plus cooling
+
+Log in or sign up to save this recipe.easy
+,1
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Triple-Chocolate Brownies
+
+50 minutes, plus cooling
+
+Log in or sign up to save this recipe.easy
+,1
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Chocolate Truffle Tart
+
+Erin Jeanne McDowell
+
+226 ratings with an average rating of 4 out of 5 stars
+
+3 hours, plus chilling
+
+Log in or sign up to save this recipe.
+,1
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Chocolate Torte (Torta Caprese)&nbsp;
+
+Samantha Seneviratne
+
+109 ratings with an average rating of 4 out of 5 stars
+
+Log in or sign up to save this recipe.
+
+331 ratings with an average rating of 4 out of 5 stars
+
+Log in or sign up to save this recipe.
+,1
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Chocolate Sesame Dumplings
+
+71 ratings with an average rating of 4 out of 5 stars
+
+Log in or sign up to save this recipe.
+
+685 ratings with an average rating of 4 out of 5 stars
+
+Log in or sign up to save this recipe.
+
+2235 ratings with an average rating of 5 out of 5 stars
+
+Log in or sign up to save this recipe.
+,1
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Cheesecake-Chocolate Pudding Bars
+
+Samantha Seneviratne
+
+666 ratings with an average rating of 4 out of 5 stars
+
+1 hour, plus 5 1/2 hours’ chilling
+
+Log in or sign up to save this recipe.
+,1
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Rocky Road Ice Cream
+
+47 ratings with an average rating of 4 out of 5 stars
+
+Log in or sign up to save this recipe.
+
+133 ratings with an average rating of 4 out of 5 stars
+
+Log in or sign up to save this recipe.
+,1
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Chocolate Pudding Cups
+
+59 ratings with an average rating of 4 out of 5 stars
+
+Log in or sign up to save this recipe.
+,1
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Molten Chocolate Muffins
+
+563 ratings with an average rating of 5 out of 5 stars
+
+1 hour, plus cooling
+
+Log in or sign up to save this recipe.
+,1
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Chocolate Layer Cake
+
+743 ratings with an average rating of 5 out of 5 stars
+
+Log in or sign up to save this recipe.
+
+158 ratings with an average rating of 4 out of 5 stars
+
+Log in or sign up to save this recipe.
+,1
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Strawberry and Cream Layer Cake
+
+2319 ratings with an average rating of 4 out of 5 stars
+
+Log in or sign up to save this recipe.
+,1
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Strawberry Layer Cake
+
+154 ratings with an average rating of 4 out of 5 stars
+
+Log in or sign up to save this recipe.
+
+1722 ratings with an average rating of 4 out of 5 stars
+
+Log in or sign up to save this recipe.
+
+452 ratings with an average rating of 5 out of 5 stars
+
+Log in or sign up to save this recipe.
+,1
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Gingerbread Layer Cake With Mascarpone Cream
+
+Samantha Seneviratne
+
+140 ratings with an average rating of 5 out of 5 stars
+
+3 hours 25 minutes&nbsp;
+
+Log in or sign up to save this recipe.
+,1
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Chocolate Birthday Cake
+
+193 ratings with an average rating of 5 out of 5 stars
+
+1 hour 20 minutes, plus cooling and chilling
+
+Log in or sign up to save this recipe.
+,1
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Rainbow Sprinkle Cake
+
+Julia Moskin, Candace Nelson
+
+4301 ratings with an average rating of 4 out of 5 stars
+
+1 1/2 hours, plus cooling
+
+Log in or sign up to save this recipe.
+,1
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Devil’s Food Cake With Black Pepper Buttercream
+
+667 ratings with an average rating of 5 out of 5 stars
+
+Log in or sign up to save this recipe.
+,1
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Rum-Raisin Carrot Cake
+
+113 ratings with an average rating of 5 out of 5 stars
+
+Log in or sign up to save this recipe.
+
+95 ratings with an average rating of 4 out of 5 stars
+
+About 7 hours 20 minutes
+
+Log in or sign up to save this recipe.
+
+277 ratings with an average rating of 4 out of 5 stars
+
+1 hour and 50 minutes
+
+Log in or sign up to save this recipe.
+,1
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Toasted Sesame and Citrus Wedding Cake
+
+161 ratings with an average rating of 4 out of 5 stars
+
+Log in or sign up to save this recipe.
+,1
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Classic Birthday Cake
+
+2207 ratings with an average rating of 4 out of 5 stars
+
+About 1 hour 15 minutes plus chilling
+
+Log in or sign up to save this recipe.
+,1
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Alabama Lemon ‘Cheese’ Cake
+
+The New York Times, Tracy K. Smith
+
+445 ratings with an average rating of 4 out of 5 stars
+
+About 3 hours, including time to cool
+
+Log in or sign up to save this recipe.
+
+880 ratings with an average rating of 4 out of 5 stars
+
+1 1/4 hours, plus cooling
+
+Log in or sign up to save this recipe.
+,1
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Strawberry Jelly Cake
+
+315 ratings with an average rating of 4 out of 5 stars
+
+Log in or sign up to save this recipe.
+,1
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Southern Red Velvet Cake
+
+Kim Severson, Adams Extract Company
+
+3540 ratings with an average rating of 4 out of 5 stars
+
+Log in or sign up to save this recipe.
+,1
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Cranberry-Lemon Stripe Cake
+
+Tejal Rao, Yotam Ottolenghi, Helen Goh
+
+552 ratings with an average rating of 4 out of 5 stars
+
+2 hours, plus baking/cooling
+
+Log in or sign up to save this recipe.
+,1
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Our Best Lemon Desserts
+
+Dena Kleiman, Susan Mahnke Peery
+
+2099 ratings with an average rating of 4 out of 5 stars
+
+Log in or sign up to save this recipe.
+,1
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Lemon Yogurt Cheesecake
+
+887 ratings with an average rating of 4 out of 5 stars
+
+Log in or sign up to save this recipe.
+
+952 ratings with an average rating of 4 out of 5 stars
+
+1 hour, plus at least 50 minutes’ chilling
+
+Log in or sign up to save this recipe.
+
+952 ratings with an average rating of 4 out of 5 stars
+
+1 hour, plus 4 hours’ cooling
+
+Log in or sign up to save this recipe.easy
+
+1282 ratings with an average rating of 4 out of 5 stars
+
+Log in or sign up to save this recipe.
+,1
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,One-Bowl Lemon and Olive Oil Cake
+
+818 ratings with an average rating of 5 out of 5 stars
+
+2 hours, including cooling
+
+Log in or sign up to save this recipe.easy
+
+David Tanis, JR Ryall
+
+4695 ratings with an average rating of 4 out of 5 stars
+
+Log in or sign up to save this recipe.
+
+161 ratings with an average rating of 4 out of 5 stars
+
+Log in or sign up to save this recipe.easy
+,1
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Lemon-Almond Butter Cake
+
+Regina Schrambling, Jody Adams
+
+3942 ratings with an average rating of 5 out of 5 stars
+
+2 hours 30 minutes, plus cooling time
+
+Log in or sign up to save this recipe.
+,1
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Pistachio-Lemon Bars
+
+2897 ratings with an average rating of 5 out of 5 stars
+
+Log in or sign up to save this recipe.easy
+,1
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Pan-Baked Lemon-Almond Tart
+
+5125 ratings with an average rating of 4 out of 5 stars
+
+Log in or sign up to save this recipe.
+,1
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Lemon Bars With Pecan Crust
+
+214 ratings with an average rating of 4 out of 5 stars
+
+Log in or sign up to save this recipe.
+
+393 ratings with an average rating of 4 out of 5 stars
+
+2 hours, plus at least 2 hours’ cooling
+
+Log in or sign up to save this recipe.
+
+811 ratings with an average rating of 4 out of 5 stars
+
+Log in or sign up to save this recipe.
+,1
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Lemon Bars With Olive Oil and Sea Salt
+
+6251 ratings with an average rating of 5 out of 5 stars
+
+1 hour 30 minutes, plus cooling and chilling
+
+Log in or sign up to save this recipe.
+,1
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,Lemon Angel Food Cake With Preserved Lemon Curd
+
+Melissa Clark, Samantha Kincaid
+
+973 ratings with an average rating of 5 out of 5 stars
+
+1 hour, plus 2 hours' chilling and cooling
+
+Log in or sign up to save this recipe.
+,1
+Our Best Dessert Recipes,https://cooking.nytimes.com/topics/desserts,/*
+@preserve
+gascrolldepth.js | v0.9
+Copyright (c) 2015 Rob Flaherty (@robflaherty), Leigh McCulloch (@___leigh___)
+Licensed under the MIT and GPL licenses.
+*/,0
