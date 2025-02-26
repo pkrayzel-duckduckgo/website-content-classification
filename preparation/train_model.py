@@ -4,6 +4,7 @@ import pandas as pd
 import torch
 from sklearn.model_selection import train_test_split
 from transformers import Trainer, TrainingArguments
+from transformers import DistilBertTokenizer, DistilBertForSequenceClassification
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
 from datasets import Dataset
 from sklearn.metrics import accuracy_score, precision_recall_fscore_support
@@ -13,12 +14,12 @@ from sklearn.metrics import accuracy_score, precision_recall_fscore_support
 # ----------------------------
 
 def load_dataset(file_path):
-    """Loads the manually verified dataset."""
+    """Loads the dataset from CSV and ensures correct data types."""
     if not os.path.exists(file_path):
         raise FileNotFoundError(f"Dataset file '{file_path}' not found. Ensure it exists in the project directory.")
 
-    df = pd.read_csv(file_path, delimiter="|")  # Ensure delimiter is correctly set
-    df['label'] = df['label'].astype(int)  # Convert labels to integers
+    df = pd.read_csv(file_path)
+    df['label'] = df['label'].astype(int)
     
     return df
 
@@ -54,25 +55,28 @@ def compute_metrics(pred):
     }
 
 def get_model_and_tokenizer(model_choice):
-    """Loads the tokenizer and model from the specified fine-tuned model directory."""
-    model_path = f"fine_tuned_{model_choice}"
-    
-    if not os.path.exists(model_path):
-        raise FileNotFoundError(f"Model directory '{model_path}' not found. Ensure the model exists before retraining.")
-
-    tokenizer = AutoTokenizer.from_pretrained(model_path)
-    model = AutoModelForSequenceClassification.from_pretrained(model_path)
+    """Loads the specified model and tokenizer."""
+    if model_choice == "distilbert":
+        model_name = "distilbert-base-uncased"
+        tokenizer = DistilBertTokenizer.from_pretrained(model_name)
+        model = DistilBertForSequenceClassification.from_pretrained(model_name, num_labels=2)
+    elif model_choice == "minilm":
+        model_name = "microsoft/MiniLM-L12-H384-uncased"
+        tokenizer = AutoTokenizer.from_pretrained(model_name)
+        model = AutoModelForSequenceClassification.from_pretrained(model_name, num_labels=2)
+    else:
+        raise ValueError(f"Invalid model choice '{model_choice}'. Choose 'distilbert' or 'minilm'.")
     
     return tokenizer, model
 
 # ----------------------------
-# 🚀 Main Retraining Function
+# 🚀 Main Training Function
 # ----------------------------
 
-def retrain_model(model_choice, dataset_path="manual_dataset.csv"):
-    """Retrains the specified fine-tuned model on manually verified data."""
+def train_model(model_choice, dataset_path="labeled_dataset.csv"):
+    """Trains and evaluates a model based on the specified choice."""
 
-    print(f"\n🚀 Retraining model: {model_choice} using dataset '{dataset_path}'\n")
+    print(f"\n🚀 Training with model: {model_choice}\n")
 
     # Step 1: Load and split dataset
     df = load_dataset(dataset_path)
@@ -98,19 +102,18 @@ def retrain_model(model_choice, dataset_path="manual_dataset.csv"):
 
     # Step 5: Define training arguments
     training_args = TrainingArguments(
-        output_dir=f'./results_{model_choice}_v2',
+        output_dir=f'./results_{model_choice}',
         evaluation_strategy='epoch',
         save_strategy='epoch',
         learning_rate=2e-5,
         per_device_train_batch_size=16,
         per_device_eval_batch_size=16,
-        num_train_epochs=5,  # Retraining with 5 epochs
+        num_train_epochs=3,
         weight_decay=0.01,
         load_best_model_at_end=True,
-        logging_dir=f'./logs_{model_choice}_v2',
+        logging_dir=f'./logs_{model_choice}',
         logging_steps=10,
-        metric_for_best_model="eval_accuracy",
-        save_total_limit=2  # Limit saved checkpoints to avoid excessive disk usage
+        metric_for_best_model="eval_accuracy"
     )
 
     # Step 6: Initialize Trainer
@@ -123,14 +126,14 @@ def retrain_model(model_choice, dataset_path="manual_dataset.csv"):
     )
 
     # Step 7: Train the model
-    print("\n🚀 Starting model retraining...\n")
+    print("\n🚀 Starting model training...\n")
     trainer.train()
 
-    # Step 8: Save the retrained model and tokenizer
-    save_path = f"fine_tuned_{model_choice}_v2"
+    # Step 8: Save the model and tokenizer
+    save_path = f"fine_tuned_{model_choice}"
     model.save_pretrained(save_path)
     tokenizer.save_pretrained(save_path)
-    print(f"\n✅ Retrained model and tokenizer saved to '{save_path}'\n")
+    print(f"\n✅ Model and tokenizer saved to '{save_path}'\n")
 
     # Step 9: Evaluate the model
     print("\n🔍 Evaluating on test dataset...\n")
@@ -143,19 +146,19 @@ def retrain_model(model_choice, dataset_path="manual_dataset.csv"):
 
     # Step 10: Save results
     os.makedirs("evaluation", exist_ok=True)
-    results_file = f"evaluation/{model_choice}_v2_performance.csv"
+    results_file = f"evaluation/{model_choice}_performance.csv"
     pd.DataFrame([test_results]).to_csv(results_file, index=False)
     
     print(f"\n📁 Test results saved to: {results_file}\n")
-    print("\n🎉 Retraining process completed successfully!")
+    print("\n🎉 Training process completed successfully!")
 
 # ----------------------------
 # 🔹 Command-line Argument Handling
 # ----------------------------
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Retrain a fine-tuned text classification model on manually verified data.")
-    parser.add_argument("--model", type=str, required=True, help="Fine-tuned model to retrain (e.g., 'distilbert' or 'minilm')")
+    parser = argparse.ArgumentParser(description="Train and evaluate a text classification model.")
+    parser.add_argument("--model", type=str, choices=["distilbert", "minilm"], required=True, help="Model to use: 'distilbert' or 'minilm'")
     args = parser.parse_args()
 
-    retrain_model(args.model)
+    train_model(args.model)

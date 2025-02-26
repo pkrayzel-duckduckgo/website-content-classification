@@ -41,3 +41,15 @@ eval_recall: 0.9697
 eval_f1: 0.9734
 ```
 
+## Training model - optimised versions
+
+```
+python train_model.py --model minilm
+python retrain_model.py --model minilm
+
+```
+
+```
+python train_model.py --model distilbert
+python retrain_model.py --model distilbert
+```
