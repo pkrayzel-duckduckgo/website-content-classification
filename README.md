@@ -41,15 +41,28 @@ eval_recall: 0.9697
 eval_f1: 0.9734
 ```
 
-## Training model - optimised versions
+## Training model - unified script and two different models
 
 ```
-python train_model.py --model minilm
-python retrain_model.py --model minilm
-
+python train.py --model distilbert --dataset labeled_dataset.csv
+python train.py --model distilbert --dataset manual_dataset.csv --resume --delimiter "|"
 ```
 
+The resume argument is to trained model from disk
+
 ```
-python train_model.py --model distilbert
-python retrain_model.py --model distilbert
+python train.py --model minilm --dataset labeled_dataset.csv
+python train.py --model minilm --dataset manual_dataset.csv --resume --delimiter "|"
+```
+
+Optionally, it can be converted to ONNX model for faster interference
+
+```
+python convert_to_onnx.py --model fine_tuned_distilbert_v2
+```
+
+or
+
+```
+python convert_to_onnx.py --model fine_tuned_minilm_v2
 ```
