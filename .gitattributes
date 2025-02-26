@@ -1,3 +1,4 @@
 relevancy_classification_v2.tar.gz filter=lfs diff=lfs merge=lfs -text
 relevancy_classification_minilm.tar.gz filter=lfs diff=lfs merge=lfs -text
 fine_tuned_minilm_v2.onnx.tar.gz filter=lfs diff=lfs merge=lfs -text
+fine_tuned_minilm_v2_onnx.tar.gz filter=lfs diff=lfs merge=lfs -text
